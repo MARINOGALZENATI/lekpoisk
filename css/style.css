@@ -1,3 +1,12 @@
+body {
+  background-image: url('../images/bg_medicine.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+  color: #000;
+}
+
 
 body { font-family: Arial; margin: 0; background: #1e1e1e; color: white; }
 header { background: #006400; padding: 15px; color: white; }
