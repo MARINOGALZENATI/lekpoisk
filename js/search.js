@@ -1,12 +1,4 @@
 
-let currentLang = 'ru';
-
-function toggleLanguage() {
-  currentLang = currentLang === 'ru' ? 'en' : 'ru';
-  renderProducts();
-}
-
-
 const medicines = [
   { name: 'Парацетамол', description: 'Обезболивающее и жаропонижающее.', image: 'images/paracetamol.jpg' },
   { name: 'Ибупрофен', description: 'Противовоспалительное средство.', image: 'images/ibuprofen.jpg' },
